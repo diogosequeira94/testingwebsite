@@ -1,0 +1,172 @@
+*
+{
+    margin:0;
+    padding:0;
+    
+    
+}
+
+.row{
+    
+    margin: 0 auto;
+    margin-right: 6%;
+    
+}
+
+
+body{
+    font-family:tahoma;
+    width: 100%;
+    
+   
+    
+
+}
+
+.hero{
+    position: absolute;
+    width: 40%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin-top: 3%;
+    clear: both;
+    margin-left: -25%;
+}
+
+header {
+    background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(http://files.all-free-download.com//downloadfiles/wallpapers/1920_1080/mount_fuji_autumn_maple_japan_15446.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    
+    
+}
+
+h1{
+    
+color: whitesmoke;
+margin-top: 200px;
+    
+}
+
+
+.main-nav{
+    list-style: none;
+    float:right;
+    margin-top:30px;
+    margin-left: 600px;
+    
+    
+
+    
+}
+
+.main-nav li{
+    
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+
+.main-nav li a {
+    
+    color: whitesmoke;
+    text-decoration: none;
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.main-nav li a:hover{
+    
+    color:gold;
+    border-bottom: 2px solid gold;
+    transition:all 0.5s ease-in;
+    padding:5px 0;
+}
+
+.btn{
+    
+    border:1px solid orangered;
+    padding: 10px 30px;
+    color: orangered;
+    text-decoration: none;
+    border-radius: 12px;
+    margin-right: 10px;
+}
+
+.button-awesome{
+    
+    margin-top: 30px;
+}
+
+.btn-half{
+    background-color:orangered;
+    color:white;
+}
+
+.btn-full{
+    background-color:orangered;
+    color:white;
+    
+}
+
+.btn-full:hover{
+    background-color:darkorange;
+    color:white;
+    transition:all 0.5s ease-in;
+    
+    
+}
+
+.btn-half:hover{
+    background-color:darkorange;
+    color:white;
+    transition:all 0.5s ease-in;
+    
+    
+}
+
+.copy{
+    
+    width:70%;
+    margin-left:15%;
+    text-align: center;
+}
+
+h3:after{
+    
+    
+    width:100px;
+    height: 2px;
+    background-color:orangered;
+    display: block;
+    content: " ";
+    margin: 0 auto; 
+    margin-top: 30px;
+}
+
+
+.features h3{
+    
+    padding-top: 80px;
+    margin-bottom: 30px;
+    font-size:40px;
+     text-align: center;
+    
+}
+
+.paragrafo{
+    width: 20%;
+    height: 10%;
+    display: inline-block;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    
+
+}
+
+
+
